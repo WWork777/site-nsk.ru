@@ -37,9 +37,9 @@ export default function RootLayout({
 
             <Footer />
             <ScrollToTop />
-            <YandexMetrika />
           </div>
         </Providers>
+        <YandexMetrika />
       </body>
     </html>
   );
