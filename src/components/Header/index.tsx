@@ -286,7 +286,7 @@ const Header = () => {
                           href="https://wa.me/79994316266"
                           className="px-7 py-3 text-base font-medium text-dark hover:opacity-70 dark:text-white"
                         >
-                          Whatssap
+                          WhatsApp
                         </Link>
                         <Link
                           href="https://t.me/Pavelvrl"
@@ -302,7 +302,7 @@ const Header = () => {
                           className={`px-7 py-3 text-base font-medium hover:opacity-70 ${sticky ? "text-dark dark:text-white" : "text-white"
                             }`}
                         >
-                          Whatssap
+                          WhatsApp
                         </Link>
 
                         <Link

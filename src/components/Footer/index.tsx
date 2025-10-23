@@ -86,7 +86,7 @@ const Footer = () => {
                 </li>
                 <li className="flex gap-3 pt-1">
                   <a
-                    href="https://t.me/@Pavelvrl"
+                    href="https://t.me/Pavelvrl"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center rounded-md bg-white/5 px-3 py-1.5 text-sm text-gray-7 hover:bg-white/10 hover:text-white"

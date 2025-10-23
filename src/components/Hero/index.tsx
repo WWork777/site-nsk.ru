@@ -19,13 +19,13 @@ const Hero = () => {
                   Разработка сайтов на Next.js: Скорость 100/100.
                 </h1>
                 <p className="mx-auto mb-9 max-w-[600px] text-base font-medium text-white sm:text-lg sm:leading-[1.44]">
-                  Забудьте о медленных Tilda и WordPress. <br />Ваши сайты будут безупречны по SEO, скорости и производительности, набирая 100 баллов Lighthouse.
+                  Забудьте о медленных Tilda и WordPress. <br />Ваши сайты будут безупречны по SEO, скорости и производительности, набирая 100 баллов Lighthouse,
                   websites.
                 </p>
                 <ul className="mb-10 flex flex-wrap items-center justify-center gap-5">
                   <li>
                     <Link
-                      href="https://t.me/@Pavelvrl"
+                      href="https://t.me/Pavelvrl"
                       className="inline-flex items-center justify-center rounded-md bg-white px-7 py-[14px] text-center text-base font-medium text-dark shadow-1 transition duration-300 ease-in-out hover:bg-gray-2"
                     >
                       Заказать сайт

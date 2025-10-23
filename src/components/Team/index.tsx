@@ -8,7 +8,7 @@ const teamData: TeamType[] = [
     name: "Павел Сакнэ",
     designation: "CEO",
     image: "/images/team/sakne1.png",
-    telegramLink: "https://t.me/@Pavelvrl",
+    telegramLink: "https://t.me/Pavelvrl",
   },
   {
     id: 2,
