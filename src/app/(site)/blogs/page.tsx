@@ -57,7 +57,10 @@ export default function PortfolioPage() {
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
             {projects.map((p) => (
-              <div key={p.id} className="w-full px-4 md:w-1/2 lg:w-1/3">
+              <div
+                key={p.id}
+                className="w-full px-4 md:w-1/2 lg:w-1/3 mb-5 md:mb-8"
+              >
                 <ProjectCard p={p} />
               </div>
             ))}

@@ -54,7 +54,7 @@ const PricingBox = ({ product }: { product: Price }) => {
 
         <div className="mb-[50px]">
           <h3 className="mb-5 text-lg font-medium text-dark dark:text-white">
-            Преимушества
+            Преимущества
           </h3>
           <div className="mb-10">
             {product?.offers.map((offer, i) => (

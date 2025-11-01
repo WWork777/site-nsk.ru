@@ -34,12 +34,12 @@ export default function ProjectCard({ p }: { p: P }) {
   return (
     <article
       className="
-        group relative flex h-[520px] w-full flex-col
-        rounded-2xl border bg-white shadow-[0_10px_30px_-12px_rgba(0,0,0,.25)]
-        transition
-        hover:shadow-[0_18px_46px_-12px_rgba(59,91,255,.30)]
-        border-gray-200
-        dark:border-white/10 dark:bg-white/[0.04] dark:shadow-[0_10px_30px_-12px_rgba(0,0,0,.55)]
+         group relative flex h-[520px] w-full flex-col
+    rounded-2xl border bg-white shadow-[0_10px_30px_-12px_rgba(0,0,0,.25)]
+    transition hover:shadow-[0_18px_46px_-12px_rgba(59,91,255,.30)]
+    border-gray-200
+    dark:border-white/10 dark:bg-white/[0.04] dark:shadow-[0_10px_30px_-12px_rgba(0,0,0,.55)]
+    mb-5 last:mb-0 sm:mb-0
       "
     >
       {/* превью */}
